@@ -1,0 +1,10 @@
+{
+  "divider": {
+    "prefix": "anti-divider",
+    "body": [
+      "import { useStore } from \"lib/store\"",
+      "import {  } from 'components/global/toast'"
+    ],
+    "description": ""
+  }
+}
